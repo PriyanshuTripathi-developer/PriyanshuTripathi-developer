@@ -1,60 +1,127 @@
-🚀 Backend Architect & System Designer
-<div align="center"><!-- Animated Typing Header --><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=80&lines=Building+Scalable+Systems+%F0%9F%9A%80;Designing+Robust+APIs+%E2%9A%99%EF%B8%8F;Engineering+Solutions+That+Scale+%F0%9F%92%BB" alt="Typing SVG" /> </a><h3>Backend-Focused Full Stack Developer | Python + Django Specialist</h3><!-- Animated Banner --><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" width="100%" height="150" style="border-radius: 10px; margin: 20px 0; background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); animation: gradient 15s ease infinite;" /><!-- GitHub Stats Cards --><div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&hide=issues" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" alt="GitHub Streak" /> </div></div>
-🚀 Backend Architect & System Designer
-<div align="center"><!-- Animated Typing Header --><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=80&lines=Building+Scalable+Systems+%F0%9F%9A%80;Designing+Robust+APIs+%E2%9A%99%EF%B8%8F;Engineering+Solutions+That+Scale+%F0%9F%92%BB" alt="Typing SVG" /> </a><h3>Backend-Focused Full Stack Developer | Python + Django Specialist</h3><!-- Animated Banner --><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" width="100%" height="150" style="border-radius: 10px; margin: 20px 0; background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); animation: gradient 15s ease infinite;" /><!-- GitHub Stats Cards --><div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&hide=issues" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" alt="GitHub Streak" /> </div></div>
-👨‍💻 About Me
-<div align="center" style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;"><!-- Developer Animation --><div style="flex: 1; min-width: 300px;"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(46, 139, 87, 0.2);" alt="Developer Coding Animation"/> </div><div style="flex: 2; min-width: 300px;">
-I'm a backend-first engineer with a passion for building scalable, maintainable systems. I approach problems with a hacker's curiosity and an architect's precision.
+👨‍💻 Senior Full Stack Developer | Backend Specialist
+https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Building+Scalable+Backend+Systems+%2526+Clean+APIs <!-- Replace with your banner image -->
 
-My Philosophy:
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+workspace!;Backend-focused+Full+Stack+Developer;API+Architect+%2526+System+Designer;Clean+Code+Advocate;Problem+Solver+at+Heart
 
-"Simplicity is prerequisite for reliability." – Edsger W. Dijkstra
+🧑‍💻 About Me
+I'm a passionate backend-focused Full Stack Developer with a strong emphasis on building scalable, maintainable, and efficient systems. I thrive on transforming complex problems into elegant technical solutions that deliver real business value.
 
-Core Focus Areas:
+What drives me:
 
-🏗️ System Architecture: Designing scalable backend systems
+🏗️ Architecting robust backend systems that scale gracefully
 
-🔐 API Design: Creating intuitive, secure, and well-documented interfaces
+🔧 Designing clean, intuitive APIs that serve both developers and users
 
-🚀 Performance Optimization: Making systems fast and efficient
+🧩 Solving challenging problems with pragmatic, well-tested solutions
 
-🧪 Testing & Reliability: Building robust, fault-tolerant applications
+📚 Continuously evolving my craft through learning and experimentation
 
-What Drives Me:
+My philosophy: "Code is read more often than it's written. Write for the next developer who will maintain it – who might be you in six months."
 
-Solving complex technical challenges
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif <!-- Replace with relevant coding/backend gif -->
 
-Building systems that handle real-world scale
+🛠️ Tech Stack
+Frontend
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
-Continuous learning and staying on the cutting edge
+Backend & APIs (Primary Focus)
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
 
-Contributing to open-source and the developer community
+Databases & Tools
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
-</div></div>
-🛠️ Technical Arsenal
+🚀 What I'm Currently Working On
+https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif <!-- Replace with relevant building/development gif -->
+
+Advanced Backend Patterns: Implementing event-driven architectures and microservices communication patterns
+
+API Optimization: Exploring GraphQL federation and REST API performance tuning techniques
+
+System Design: Deep diving into scalable database design and caching strategies
+
+Learning Focus: Advanced Django patterns, distributed systems, and cloud architecture
+
+Open Source Contributions: Actively looking for meaningful projects to contribute to
+
+📁 Projects Highlight
+Featured Project: E-Commerce API Platform
+https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif
+A comprehensive REST API built with Django REST Framework featuring:
+
+🔐 JWT authentication with refresh tokens
+
+🛒 Product inventory and order management
+
+💳 Payment gateway integration (Stripe/PayPal)
+
+📊 Admin dashboard with analytics
+
+📦 Dockerized deployment with PostgreSQL & Redis
+
+Project Types I Build:
+Scalable REST APIs with proper documentation (OpenAPI/Swagger)
+
+Real-time dashboards for data visualization and monitoring
+
+Backend microservices with message queues and background workers
+
+Database optimization projects focusing on query performance
+
+Developer tools that solve common pain points
+
+💪 Skills & Strengths
+Backend Development	API Design	System Architecture
+Django & DRF Expertise	RESTful Design	Scalable Solutions
+Database Optimization	Authentication Systems	Microservices
+Caching Strategies	Rate Limiting	Load Balancing
+Background Tasks	WebSockets	Containerization
+Problem Solving	Code Quality	Collaboration
+Debugging Complex Issues	Clean Code Principles	Git Workflows
+Performance Tuning	Testing (Unit/Integration)	Code Reviews
+System Analysis	Documentation	Technical Mentoring
+📊 GitHub Stats
 <div align="center">
-Backend Engineering Stack
-<table> <tr> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <br><strong>Python</strong> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" /> <br><strong>Django</strong> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" style="filter: hue-rotate(90deg);" /> <br><strong>DRF</strong> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /> <br><strong>PostgreSQL</strong> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" /> <br><strong>Redis</strong> </td> </tr> </table>
-Frontend & DevOps
-<table> <tr> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <br>HTML5 </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <br>CSS3 </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <br>JavaScript </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> <br>Docker </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" /> <br>Nginx </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <br>Git </td> </tr> </table></div>
-🚀 Current Focus & Projects
-<div align="center" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 30px; border-radius: 15px; margin: 30px 0;">
-🏗️ System Design & Scalability
-<table width="100%"> <tr> <td width="50%" style="padding: 20px;"> <h4>🔬 High-Concurrency API Gateway</h4> <p>Building a scalable API gateway handling 10k+ RPM with:</p> <ul> <li>Intelligent rate limiting</li> <li>JWT authentication with rotation</li> <li>Request/response transformation</li> <li>Real-time monitoring</li> </ul> </td> <td width="50%" style="padding: 20px;"> <h4>📊 Distributed Task Queue</h4> <p>Implementing a fault-tolerant task processing system:</p> <ul> <li>Redis-backed job queues</li> <li>Priority-based scheduling</li> <li>Dead letter queues for failures</li> <li>Horizontal scaling support</li> </ul> </td> </tr> </table></div>
-🌟 Featured Projects
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;"><!-- Project 1 --><div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 4px solid #2E8B57;"> <h3>🏪 E-Commerce Microservices</h3> <p>Complete backend system with separate services for:</p> <ul> <li>User Authentication & Authorization</li> <li>Product Catalog & Inventory</li> <li>Order Processing Pipeline</li> <li>Payment Gateway Integration</li> <li>Analytics & Reporting</li> </ul> <div style="margin-top: 15px;"> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em;">Django</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">DRF</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">PostgreSQL</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">Redis</span> </div> </div><!-- Project 2 --><div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 4px solid #2E8B57;"> <h3>📈 Real-time Analytics API</h3> <p>High-performance analytics backend featuring:</p> <ul> <li>Time-series data aggregation</li> <li>WebSocket for live updates</li> <li>Custom dashboard builder</li> <li>Data export capabilities</li> <li>Role-based access control</li> </ul> <div style="margin-top: 15px;"> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em;">Django Channels</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">Celery</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">InfluxDB</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">Docker</span> </div> </div><!-- Project 3 --><div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 4px solid #2E8B57;"> <h3>🔐 Secure Auth Service</h3> <p>Enterprise-grade authentication system with:</p> <ul> <li>Multi-factor authentication</li> <li>OAuth2/OpenID Connect</li> <li>Session management</li> <li>Audit logging</li> <li>Brute-force protection</li> </ul> <div style="margin-top: 15px;"> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em;">JWT</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">OAuth2</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">Redis</span> <span style="background: #2E8B57; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; margin-left: 5px;">PostgreSQL</span> </div> </div></div>
-📊 Development Analytics
-<div align="center"><!-- Activity Graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2E8B57&line=2E8B57&point=FFFFFF" width="100%" alt="Activity Graph" /><!-- Language Stats --><div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57&hide=html,css,scss" alt="Top Languages" /> <!-- Trophy Stats --> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-bg=true&no-frame=true&margin-w=20&margin-h=20&column=4" alt="GitHub Trophies" /> </div></div>
-🎯 Engineering Principles
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;"><!-- Principle 1 --><div style="text-align: center; padding: 20px; background: #1a1a1a; border-radius: 10px;"> <h3>🛡️ Security First</h3> <p>Every line of code is a potential attack surface</p> <ul style="text-align: left; font-size: 0.9em;"> <li>Input validation & sanitization</li> <li>Principle of least privilege</li> <li>Regular security audits</li> <li>Dependency scanning</li> </ul> </div><!-- Principle 2 --><div style="text-align: center; padding: 20px; background: #1a1a1a; border-radius: 10px;"> <h3>⚡ Performance Oriented</h3> <p>Milliseconds matter at scale</p> <ul style="text-align: left; font-size: 0.9em;"> <li>Query optimization</li> <li>Caching strategies</li> <li>Connection pooling</li> <li>Async processing</li> </ul> </div><!-- Principle 3 --><div style="text-align: center; padding: 20px; background: #1a1a1a; border-radius: 10px;"> <h3>📐 Clean Architecture</h3> <p>Code for the next developer</p> <ul style="text-align: left; font-size: 0.9em;"> <li>Separation of concerns</li> <li>Test-driven development</li> <li>Comprehensive docs</li> <li>Consistent patterns</li> </ul> </div></div>
-🤝 Let's Collaborate
-<div align="center" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 100%); padding: 30px; border-radius: 15px; margin: 40px 0;"><h3>Open to Exciting Opportunities</h3><p>I'm always interested in:</p><table width="100%"> <tr> <td width="33%" style="padding: 15px; vertical-align: top;"> <h4>🏢 Enterprise Projects</h4> <p>Scalable backend systems, API design, microservices architecture</p> </td> <td width="33%" style="padding: 15px; vertical-align: top;"> <h4>🌐 Open Source</h4> <p>Contributing to Django/DRF ecosystem, developer tools, libraries</p> </td> <td width="33%" style="padding: 15px; vertical-align: top;"> <h4>🎯 Technical Consulting</h4> <p>System design reviews, performance optimization, team mentoring</p> </td> </tr> </table></div>
-📫 Connect With Me
-<div align="center"><!-- Contact Badges --><div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=readme&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true <!-- Replace YOUR_USERNAME -->
 
-</div><!-- Final Message --><div style="margin: 40px 0; padding: 20px; border-top: 2px solid #2E8B57; border-bottom: 2px solid #2E8B57;">
+https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true <!-- Replace YOUR_USERNAME -->
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true <!-- Replace YOUR_USERNAME -->
+
+</div>
+🤝 Open Source & Collaboration
+https://media.giphy.com/media/26tknCqiJrBQG6DrC/giphy.gif
+
+I believe in the power of open source and collaborative development. I actively:
+
+🔍 Look for meaningful projects to contribute to
+
+📝 Maintain clean, well-documented code for community use
+
+🎯 Participate in code reviews with constructive feedback
+
+🤲 Share knowledge through technical writing and examples
+
+My collaboration approach: I value clear communication, respect for different perspectives, and a focus on creating maintainable, well-tested solutions that benefit the entire team.
+
+📬 Connect With Me
+<div align="center">
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white <!-- Replace YOUR_PROFILE -->
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white <!-- Replace YOUR_HANDLE -->
+https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white <!-- Replace yourportfolio.com -->
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white <!-- Replace your.email@example.com -->
+
+</div>
+<div align="center">
+💡 Let's Build Something Amazing Together
+"Whether you're a recruiter looking for a skilled backend developer, an open-source maintainer seeking contributions, or a fellow developer wanting to collaborate—I'd love to connect and explore how we can create impactful solutions."
+
+https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue <!-- Replace YOUR_USERNAME -->
+
+</div>

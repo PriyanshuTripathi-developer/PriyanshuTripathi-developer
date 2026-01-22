@@ -100,11 +100,7 @@ I specialize in building **scalable backend systems**, **secure REST APIs**, and
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK ](https://www.linkedin.com/in/priyanshu-tripathi-66b557341/) 
-- 🐦 Twitter (X): [https://twitter.com/YOUR_HANDLE ](https://x.com/T96506Tripathi)
+- 💼 LinkedIn: [https://linkedin.com/in/priyanshu-tripathi-66b557341/](https://www.linkedin.com/in/priyanshu-tripathi-66b557341/) 
+- 🐦 Twitter (X): [https://twitter.com/T96506Tripathi ](https://x.com/T96506Tripathi)
 
 📩 *Let’s build something meaningful together.*
-
----
-
-⭐ **If you find my work useful, don’t forget to star my repositories!**

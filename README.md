@@ -1,127 +1,111 @@
-👨‍💻 Senior Full Stack Developer | Backend Specialist
-https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Building+Scalable+Backend+Systems+%2526+Clean+APIs <!-- Replace with your banner image -->
+# 👋 Hi, I'm Priyanshu Tripathi  
 
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+workspace!;Backend-focused+Full+Stack+Developer;API+Architect+%2526+System+Designer;Clean+Code+Advocate;Problem+Solver+at+Heart
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Focused+Developer;Django+%7C+REST+API+Engineer;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+</p>
 
-🧑‍💻 About Me
-I'm a passionate backend-focused Full Stack Developer with a strong emphasis on building scalable, maintainable, and efficient systems. I thrive on transforming complex problems into elegant technical solutions that deliver real business value.
+🚀 **Backend-Focused Full Stack Developer | Django & REST APIs**
 
-What drives me:
+I specialize in building **scalable backend systems**, **secure REST APIs**, and **data-driven web applications**. I value clean architecture, performance, and real-world problem solving.
 
-🏗️ Architecting robust backend systems that scale gracefully
+---
 
-🔧 Designing clean, intuitive APIs that serve both developers and users
+## 🧑‍💻 About Me  
 
-🧩 Solving challenging problems with pragmatic, well-tested solutions
+- 🎯 Focused on **Backend Engineering**
+- 🧠 Strong problem-solving & debugging skills  
+- ⚙️ Passionate about **Django & Django REST Framework**
+- 📈 Learning system design & scalable architectures
+- 🤝 Open to internships, collaborations & open source
 
-📚 Continuously evolving my craft through learning and experimentation
+---
 
-My philosophy: "Code is read more often than it's written. Write for the next developer who will maintain it – who might be you in six months."
+## 🛠️ Tech Stack  
 
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif <!-- Replace with relevant coding/backend gif -->
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-🛠️ Tech Stack
-Frontend
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
-Backend & APIs (Primary Focus)
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
+### 🧰 Tools & Concepts  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
-Databases & Tools
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+- RESTful APIs  
+- Authentication & Authorization  
+- ORM & Database Design  
+- MVC / MVT Architecture  
 
-🚀 What I'm Currently Working On
-https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif <!-- Replace with relevant building/development gif -->
+---
 
-Advanced Backend Patterns: Implementing event-driven architectures and microservices communication patterns
+## 🚧 Currently Working On  
 
-API Optimization: Exploring GraphQL federation and REST API performance tuning techniques
+- 🔹 Advanced **Django REST Framework** APIs  
+- 🔹 Backend performance & optimization  
+- 🔹 Data Structures & Algorithms  
+- 🔹 Real-world backend projects  
 
-System Design: Deep diving into scalable database design and caching strategies
+---
 
-Learning Focus: Advanced Django patterns, distributed systems, and cloud architecture
+## 🚀 Project Highlights  
 
-Open Source Contributions: Actively looking for meaningful projects to contribute to
+- ✅ REST APIs with authentication & permissions  
+- ✅ CRUD-based dashboards & admin panels  
+- ✅ Django-powered backend systems  
+- ✅ API integration with frontend apps  
 
-📁 Projects Highlight
-Featured Project: E-Commerce API Platform
-https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif
-A comprehensive REST API built with Django REST Framework featuring:
+> I focus on **real-world usability**, not just demo projects.
 
-🔐 JWT authentication with refresh tokens
+---
 
-🛒 Product inventory and order management
+## 💡 Core Strengths  
 
-💳 Payment gateway integration (Stripe/PayPal)
+- Backend Development (Django)
+- REST API Design
+- Database Handling & ORM
+- Clean Code & Modular Architecture
+- Debugging & Optimization
 
-📊 Admin dashboard with analytics
+---
 
-📦 Dockerized deployment with PostgreSQL & Redis
+## 📊 GitHub Stats  
 
-Project Types I Build:
-Scalable REST APIs with proper documentation (OpenAPI/Swagger)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-Real-time dashboards for data visualization and monitoring
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+</p>
 
-Backend microservices with message queues and background workers
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-Database optimization projects focusing on query performance
+---
 
-Developer tools that solve common pain points
+## 🌍 Open Source & Collaboration  
 
-💪 Skills & Strengths
-Backend Development	API Design	System Architecture
-Django & DRF Expertise	RESTful Design	Scalable Solutions
-Database Optimization	Authentication Systems	Microservices
-Caching Strategies	Rate Limiting	Load Balancing
-Background Tasks	WebSockets	Containerization
-Problem Solving	Code Quality	Collaboration
-Debugging Complex Issues	Clean Code Principles	Git Workflows
-Performance Tuning	Testing (Unit/Integration)	Code Reviews
-System Analysis	Documentation	Technical Mentoring
-📊 GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true <!-- Replace YOUR_USERNAME -->
+- 🌱 Interested in contributing to **Django & Python projects**
+- 🤝 Enjoy teamwork and peer learning
+- 📚 Believe in writing code that scales and lasts
 
-https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true <!-- Replace YOUR_USERNAME -->
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true <!-- Replace YOUR_USERNAME -->
+## 📫 Connect With Me  
 
-</div>
-🤝 Open Source & Collaboration
-https://media.giphy.com/media/26tknCqiJrBQG6DrC/giphy.gif
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 🐦 Twitter (X): https://twitter.com/YOUR_HANDLE  
+- 🌐 Portfolio: https://YOUR_PORTFOLIO  
 
-I believe in the power of open source and collaborative development. I actively:
+📩 *Let’s build something meaningful together.*
 
-🔍 Look for meaningful projects to contribute to
+---
 
-📝 Maintain clean, well-documented code for community use
-
-🎯 Participate in code reviews with constructive feedback
-
-🤲 Share knowledge through technical writing and examples
-
-My collaboration approach: I value clear communication, respect for different perspectives, and a focus on creating maintainable, well-tested solutions that benefit the entire team.
-
-📬 Connect With Me
-<div align="center">
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white <!-- Replace YOUR_PROFILE -->
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white <!-- Replace YOUR_HANDLE -->
-https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white <!-- Replace yourportfolio.com -->
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white <!-- Replace your.email@example.com -->
-
-</div>
-<div align="center">
-💡 Let's Build Something Amazing Together
-"Whether you're a recruiter looking for a skilled backend developer, an open-source maintainer seeking contributions, or a fellow developer wanting to collaborate—I'd love to connect and explore how we can create impactful solutions."
-
-https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue <!-- Replace YOUR_USERNAME -->
-
-</div>
+⭐ **If you find my work useful, don’t forget to star my repositories!**
